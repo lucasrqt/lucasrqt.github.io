@@ -12,9 +12,6 @@ For any information, feel free to contact me at anytime !
 
 [lucas.roquet@inria.fr](mailto:lucas.roquet@inria.fr)
 
-## Phone
-
-+33 XXXXXXXXX
 
 ## Address
 
