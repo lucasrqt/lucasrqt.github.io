@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /teaching/
 ---
 
 Since October 2024, I have been pursuing a Ph.D. in Computer Science at IRISA/Inria within the [Taran research group](https://team.inria.fr/taran/), under the supervision of [Fernando Fernandes dos Santos](https://fernandofernandesantos.github.io/) and [Angeliki Kritikakou](https://sites.google.com/site/angelikikritikakou/).
@@ -15,6 +16,6 @@ My Ph.D. research focuses on developing innovative and efficient methods to prot
 
 ## Additional Activities
 
-I am also the co-founder and secretary of the **Café!** association, which serves Ph.D. students, post-docs, research engineers, and interns at the IRISA laboratory.
+I am also the co-founder and secretary of the [**Café!** association](https://asso-cafe.github.io), which serves Ph.D. students, post-docs, research engineers, and interns at the IRISA laboratory.
 
 Aside my associative engagements, I like rowing, running, and playing music with friends !

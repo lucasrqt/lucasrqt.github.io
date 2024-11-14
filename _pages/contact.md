@@ -10,11 +10,8 @@ For any information, feel free to contact me at anytime !
 
 ## Email
 
-[lucas.roquet@inria.fr](mailto:lucas.roquet@inria.fr)
+[lucas\[dot\]roquet\[at\]inria.fr](mailto:lucas.roquet@inria.fr)
 
-## Phone
-
-+33 XXXXXXXXX
 
 ## Address
 
