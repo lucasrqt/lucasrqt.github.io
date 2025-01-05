@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - /teaching/
 ---
 
 Since October 2024, I have been pursuing a Ph.D. in Computer Science at IRISA/Inria within the [Taran research group](https://team.inria.fr/taran/), under the supervision of [Fernando Fernandes dos Santos](https://fernandofernandesantos.github.io/) and [Angeliki Kritikakou](https://sites.google.com/site/angelikikritikakou/).
