@@ -21,7 +21,7 @@ repository               : "lucasrqt/lucasrqt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.jpg"
+  avatar           : "me3.jpeg"
   name             : "Lucas Roquet"
   pronouns         : # example: "she/her"  
   bio              : "Second year Ph.D. student in Computer Science at IRISA/Inria Rennes in the Taran group."
