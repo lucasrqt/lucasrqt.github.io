@@ -9,6 +9,12 @@ This page summarizes the courses I teach at the University of Rennes.
 
 ## 2026/2027
 
+### Research Project Advisor
+**Co-advising M2 Cybersecurity students working on the RowHammer attack on GPUs with Fernando Fernandes dos Santos and Angeliki Kritikakou.**
+- **Students**: Julien B., Florian S., Anatole B., and Ludovic M. 
+- **Advising sessions**: 19 hours
+- **Level**: Cybersecurity Master (M2), *Cyberschool, ISTIC, Univ. Rennes*
+
 ### Embedded System Security
 - **Resp.**: Gwendal Patat
 - **Lab sessions**: 30 hours

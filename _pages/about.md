@@ -15,6 +15,6 @@ My Ph.D. research focuses on developing innovative and efficient methods to prot
 
 ## Additional Activities
 
-I am also the co-founder and secretary of the [**Café!** association](https://asso-cafe.github.io), which serves Ph.D. students, post-docs, research engineers, and interns at the IRISA laboratory.
+I co-founded the [**Café!** association](https://asso-cafe.github.io), which serves Ph.D. students, post-docs, research engineers, and interns at the IRISA laboratory. From 2024 to 2026 I have been the secretary of **Café!**. 
 
-Aside my associative engagements, I like rowing, running, and playing the guitar.
+Aside my associative engagements, I like bouldering, cooking, gardening, rowing, running, and playing the guitar.

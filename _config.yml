@@ -24,7 +24,7 @@ author:
   avatar           : "me3.jpeg"
   name             : "Lucas Roquet"
   pronouns         : # example: "she/her"  
-  bio              : "Second year Ph.D. student in Computer Science at IRISA/Inria Rennes in the Taran group."
+  bio              : "Third (and final) year Ph.D. student in Computer Science at IRISA/Inria Rennes in the Taran group."
   location         : "Rennes, France"
   employer         : "IRISA/Inria Rennes"
   uri              : "https://lucasrqt.github.io" # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "lucas-roquet-phd"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -310,7 +310,7 @@ whitelist:
 
 
 # Archives
-#  Type
+#  Type:
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
 #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
 #  Path (examples)
