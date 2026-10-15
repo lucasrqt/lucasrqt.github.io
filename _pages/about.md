@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Since October 2024, I have been pursuing a Ph.D. in Computer Science at IRISA/Inria within the [Taran research group](https://team.inria.fr/taran/), under the supervision of [Fernando Fernandes dos Santos](https://fernandofernandesantos.github.io/) and [Angeliki Kritikakou](https://sites.google.com/site/angelikikritikakou/).
+Since October 2024, I have been pursuing a Ph.D. in Computer Science at [IRISA/Inria Rennes](https://irisa.fr/) within the [Taran research group](https://team.inria.fr/taran/), under the supervision of [Fernando Fernandes dos Santos](https://fernandofernandesantos.github.io/) and [Angeliki Kritikakou](https://sites.google.com/site/angelikikritikakou/).
 
 I earned my Bachelor's degree in **Computer Science** from *Université de Rennes 1* in 2022, followed by a Master's in **Cybersecurity** with a specialization in **hardware security** from *Cyberschool, Université de Rennes* in 2024.
 
